@@ -27,5 +27,6 @@ jobs:
         with:
           context: .  # Path to the Dockerfile
           push: true
-          tags: amanaman4653/nodejs-container-app:latest
+          tags: amana0/nodejs-container-app:latest
+
 
