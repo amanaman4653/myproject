@@ -27,4 +27,5 @@ jobs:
         with:
           context: .  # Path to the Dockerfile
           push: true
-          tags: <your-dockerhub-username>/nodejs-container-app:latest
+          tags: amanaman4653/nodejs-container-app:latest
+
